@@ -1,8 +1,6 @@
 # TFS Snowday - Hands-On AI Lab
 
 **Date:** April 23, 2026  
-**Audience:** Toyota Financial Services team (~65 attendees)  
-**Duration:** 2 hours (10:15 AM - 12:15 PM ET)
 
 ## What is this?
 
